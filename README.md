@@ -28,7 +28,7 @@ Virtual kart real olmayan bir bank kartıdır hansi ki onu sadəcə online alı�
 2. Operator 
    1. Müştərinin daxil etdiyi koordinatlara (START POINT) əsasən ən yaxında olan taksini təyin etmə 
    2. Hesablanan məsafəyə görə hər 10k-a görə 2 AZN xidmət haqqı hesablanması (Məsafə hesablanması üçün koordinat sistemində iki nöqtə arasındakı fərqi hesablama düsturundan istifadə edə bilərsiniz)
-   3.Taksinin olduğu yerdən müştərinin adresinə çatma zamanını və müştərinin istədiyi adresə çatma zamanını hesablama (Taksinin sürəti 3 3 K/Dəqiqə)
+   3. Taksinin olduğu yerdən müştərinin adresinə çatma zamanını və müştərinin istədiyi adresə çatma zamanını hesablama (Taksinin sürəti 3 3 K/Dəqiqə)
    4. Təyin edilən taksinin müştəri ilə əlaqələndirmə ( output : Hörmətli Əhməd bəy sizin taksiniz təyin edildi.Taksiniz X dəqiqəyə adresinizdə olacaq, qeyd etdiyiniz adresə çatma vatxınız Y-dir və gediş haqqınız Z olacaqdır.Bizi seçdiyiniz üçün təşəkkür edirik )
 3. Taksi
    1. Maşın nömrəsi və olduğu yeri təyin etmə (START POINT)
