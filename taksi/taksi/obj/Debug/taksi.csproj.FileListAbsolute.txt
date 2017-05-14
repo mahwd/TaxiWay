@@ -1,0 +1,6 @@
+c:\users\hesen\documents\visual studio 2017\Projects\taksi\taksi\bin\Debug\taksi.exe.config
+c:\users\hesen\documents\visual studio 2017\Projects\taksi\taksi\bin\Debug\taksi.exe
+c:\users\hesen\documents\visual studio 2017\Projects\taksi\taksi\bin\Debug\taksi.pdb
+c:\users\hesen\documents\visual studio 2017\Projects\taksi\taksi\obj\Debug\taksi.csprojResolveAssemblyReference.cache
+c:\users\hesen\documents\visual studio 2017\Projects\taksi\taksi\obj\Debug\taksi.exe
+c:\users\hesen\documents\visual studio 2017\Projects\taksi\taksi\obj\Debug\taksi.pdb
